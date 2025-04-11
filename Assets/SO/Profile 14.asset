@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a94a23c0a3296644e8468ec32ebd0d4b, type: 3}
+  m_Name: Profile 14
+  m_EditorClassIdentifier: 
+  EnglishDescription: You are the son of a farmer in a remote mountain village and
+    are 19 years old.
+  FrenchDescription: "Vous \xEAtes le fils d\u2019un paysan dans un village de montagne
+    recul\xE9 et avez 19 ans."
+  Group: 2
+  Image: {fileID: -4198176613820359741, guid: 0edaa75d7d08e254892e92b8bd947d21, type: 3}

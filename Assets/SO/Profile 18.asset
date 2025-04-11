@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a94a23c0a3296644e8468ec32ebd0d4b, type: 3}
+  m_Name: Profile 18
+  m_EditorClassIdentifier: 
+  EnglishDescription: You are the daughter of the director of the local bank. You
+    are studying economics at university.
+  FrenchDescription: "Vous \xEAtes la fille du directeur de l\u2019agence bancaire
+    locale. Vous \xE9tudiez les sciences \xE9conomiques \xE0 l\u2019universit\xE9."
+  Group: 3
+  Image: {fileID: 4379500201709727951, guid: c972be70489725340a881a6412db148a, type: 3}

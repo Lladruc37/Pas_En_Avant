@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a94a23c0a3296644e8468ec32ebd0d4b, type: 3}
+  m_Name: Profile 8
+  m_EditorClassIdentifier: 
+  EnglishDescription: You are the son of a Chinese immigrant who runs a successful
+    fast-food business.
+  FrenchDescription: "Vous \xEAtes le fils d\u2019un immigr\xE9 chinois qui g\xE8re
+    une affaire prosp\xE8re de restauration rapide."
+  Group: 2
+  Image: {fileID: 2532073981782216884, guid: 39ecf75031726644b9316e038a3a5e6d, type: 3}

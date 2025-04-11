@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a94a23c0a3296644e8468ec32ebd0d4b, type: 3}
+  m_Name: Profile 20
+  m_EditorClassIdentifier: 
+  EnglishDescription: You are a retired worker from a shoe manufacturing factory.
+  FrenchDescription: "Vous \xEAtes un ouvrier en retraite d\u2019une usine de fabrication
+    de chaussures."
+  Group: 3
+  Image: {fileID: 2509227382784747588, guid: 23e2555b626aea74dbfeab65cbe4c3c0, type: 3}

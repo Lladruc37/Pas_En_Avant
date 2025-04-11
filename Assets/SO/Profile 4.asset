@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a94a23c0a3296644e8468ec32ebd0d4b, type: 3}
+  m_Name: Profile 4
+  m_EditorClassIdentifier: 
+  EnglishDescription: You are a middle-aged prostitute who is HIV-positive.
+  FrenchDescription: "Vous \xEAtes une prostitu\xE9e d\u2019\xE2ge moyen s\xE9ropositive."
+  Group: 1
+  Image: {fileID: -1268600071194614128, guid: 303b72e253e692d4fa43c8fa3444899f, type: 3}
